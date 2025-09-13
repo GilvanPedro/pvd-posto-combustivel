@@ -1,0 +1,81 @@
+# Itens de Backlog
+
+1- Novo Produto: Funcionalidades que ainda não existem no produto;
+2- Melhorias: Alterações em recursos existentes para aprimorar a experiência de usuário;
+3- Bugs: Defeitos e Falhas;
+4- Dívida Técica: Trabalho necessário para refatorar o código;
+5- Mudanças do Desing e Problemas de UX: Alterações necessárias para melhorar a aparência do produto;
+6- Aquisição de Conhecimento (Spikes): Investigação ou protótipo para mitigar dúvidas;
+7- Solicitações de Clientes e Partes: Demandas vindas de usuários e outras pessoas envolvidas no projeto;
+
+# Squad 4
+    -> Gilvan Pedro de Castro Melo Campos;
+    -> Eduardo Brandão
+    -> Isabella Martins
+    -> João Paulo
+    -> Scarcela
+    -> Giovanna Alice
+    -> Denani
+    -> João Pedro
+    ->
+    ->
+
+1.1 - Requisitos Não Funcionais
+    1.1.1 - Descritivo Técnico:
+        # Backend desevolvido em java 15;
+        # Maven para gentão de dependências do projeto;
+        # Swing para interface com o usuário;
+        # Versionamento do projeto Git/GitHub;
+
+1.2 - Requisitos Funcionais
+    1.2.1 - Login:
+        # Email;
+        # Colocar_Senha;
+
+    1.2.2 - Cadastro Pessoa:
+        # Cpf;
+        # Nome;
+        # Senha;
+        # CTPS
+        # Email;
+        # Contato;
+        # Acesso;
+        # Contato;
+
+    1.2.3 - Cadastro de Produto:
+        # Nome;
+        # Referência;
+        # Fornecedor;
+        # Marca;
+
+        1.2.3.1 - Preço:
+            # Valor;
+            # Data_Hora;
+
+        1.2.3.2 - Estoque:
+            # Quantidade;
+            # Local_Tanque;
+            # Local_Endereço;
+            # Lote_Fabricação;
+            # Validade;
+
+    1.2.4 - Gestão de Custos:
+        # Data_Processamento;
+        # Vlr_Compra;
+        # Vlr_Venda;
+        # Posto;
+        # Custo_Operacional;
+        # Custo Fixo;
+        # Custo_Manutenção;
+
+    1.2.5 - Gestão:
+        1.2.5.1 - Gerenciamento de Funcionários
+            # Rendimento;
+
+        1.2.5.2 - Gerenciamento do Posto
+            # Estoque;
+            # Preços;
+
+        1.2.5.3 - Gerenciamento dos Custos
+            # Inventário do Posto;
+            # Balanço Patrimonial;
