@@ -1,0 +1,11 @@
+com\br\pdvpostocombustivel\PdvpostocombustivelApplication.class
+com\br\pdvpostocombustivel\domain\entity\Pessoa.class
+com\br\pdvpostocombustivel\enums\TipoPessoa.class
+com\br\pdvpostocombustivel\api\pessoa\PessoaService.class
+com\br\pdvpostocombustivel\api\pessoa\PessoaController.class
+com\br\pdvpostocombustivel\domain\entity\Produto.class
+com\br\pdvpostocombustivel\domain\repository\ProdutoRepository.class
+com\br\pdvpostocombustivel\exceptions\PessoaException.class
+com\br\pdvpostocombustivel\domain\repository\PessoaRepository.class
+com\br\pdvpostocombustivel\api\pessoa\dto\PessoaResponse.class
+com\br\pdvpostocombustivel\api\pessoa\dto\PessoaRequest.class
