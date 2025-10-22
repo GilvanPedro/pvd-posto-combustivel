@@ -8,9 +8,11 @@ refazer a parte de cadastro e fazer com que a pessoa tenha que logar ou se cadas
 
 depois de logar, eu vou ter acesso as opções de produtos disponíveis para comprar a opção de estoque, cadastro de estoque e do financeiro
 
-não terá mais como se cadastrar como pessoa, será um programa para os frentistas e gerentes
+o cadastro de um cliente será feito por um frentista ou gerente, e se ele tiver cadastro, ele ganha um pequeno desconto no abastecimento
 
 criar bombas de combustiveis, que mostrarão se elas estao ocupadas ou não
+
+além de criar tipos de métodos de pagamento(pix, cartao, dinheiro)
 
 juntar toda a interface em uma unica janela
 
@@ -18,4 +20,4 @@ fazer não dar para redimensionar a página
 
 adicionar copyright no footer
 
-integrar o produto com o estoque, fazendo os produtos que eu posso cadastrar serem os que estao no estoque
+integrar o produto com o estoque, fazendo os produtos que eu posso cadastrar serem os que estao disponíveis no estoque
