@@ -6,7 +6,11 @@ lebrar de adicionar a opc de excluir la lista de pessoas, produtos e estoque
 
 refazer a parte de cadastro e fazer com que a pessoa tenha que logar ou se cadastrar, com o nome do projeto do lado, e essa tela de login sendo a primeira coisa que aparece ao iniciar a aplicação
 
-depois de logar, eu vou ter acesso as opções de produtos disponíveis para compra, e comprar eles mas se a pessoa for gerente, ou frentista, ela terá a opção de estoque, cadastro de estoque e do financeiro
+depois de logar, eu vou ter acesso as opções de produtos disponíveis para comprar a opção de estoque, cadastro de estoque e do financeiro
+
+não terá mais como se cadastrar como pessoa, será um programa para os frentistas e gerentes
+
+criar bombas de combustiveis, que mostrarão se elas estao ocupadas ou não
 
 juntar toda a interface em uma unica janela
 
