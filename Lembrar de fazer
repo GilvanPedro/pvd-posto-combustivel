@@ -4,4 +4,12 @@ fazer as pessoas, produtos, estoque e o financeiro serem salvos no banco de dado
 
 lebrar de adicionar a opc de excluir la lista de pessoas, produtos e estoque
 
+refazer a parte de cadastro e fazer com que a pessoa tenha que logar ou se cadastrar, com o nome do projeto do lado, e essa tela de login sendo a primeira coisa que aparece ao iniciar a aplicação
+
+juntar toda a interface em uma unica janela
+
+fazer não dar para redimensionar a página
+
+adicionar copyright
+
 integrar o produto com o estoque, fazendo os produtos que eu posso cadastrar serem os que estao no estoque
