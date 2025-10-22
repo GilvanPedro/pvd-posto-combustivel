@@ -10,7 +10,7 @@ depois de logar, eu vou ter acesso as opções de produtos disponíveis para com
 
 não terá mais o cliente, apenas frentista e gerente
 
-criar bombas de combustiveis, que mostrarão se elas estao ocupadas ou não
+criar bombas de combustiveis, que mostrarão se elas estao ocupadas ou não, com cada frentista podendo atuar em 3 no máximo
 
 além de criar tipos de métodos de pagamento(pix, cartao, dinheiro)
 
